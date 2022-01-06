@@ -1,0 +1,17 @@
+C:\Users\neand\source\repos\PoC.RabbitMQ\PoC.RabbitMQ.Sender\bin\Debug\net6.0\PoC.RabbitMQ.Sender.exe
+C:\Users\neand\source\repos\PoC.RabbitMQ\PoC.RabbitMQ.Sender\bin\Debug\net6.0\PoC.RabbitMQ.Sender.deps.json
+C:\Users\neand\source\repos\PoC.RabbitMQ\PoC.RabbitMQ.Sender\bin\Debug\net6.0\PoC.RabbitMQ.Sender.runtimeconfig.json
+C:\Users\neand\source\repos\PoC.RabbitMQ\PoC.RabbitMQ.Sender\bin\Debug\net6.0\PoC.RabbitMQ.Sender.dll
+C:\Users\neand\source\repos\PoC.RabbitMQ\PoC.RabbitMQ.Sender\bin\Debug\net6.0\ref\PoC.RabbitMQ.Sender.dll
+C:\Users\neand\source\repos\PoC.RabbitMQ\PoC.RabbitMQ.Sender\bin\Debug\net6.0\PoC.RabbitMQ.Sender.pdb
+C:\Users\neand\source\repos\PoC.RabbitMQ\PoC.RabbitMQ.Sender\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\neand\source\repos\PoC.RabbitMQ\PoC.RabbitMQ.Sender\obj\Debug\net6.0\PoC.RabbitMQ.Sender.csproj.AssemblyReference.cache
+C:\Users\neand\source\repos\PoC.RabbitMQ\PoC.RabbitMQ.Sender\obj\Debug\net6.0\PoC.RabbitMQ.Sender.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neand\source\repos\PoC.RabbitMQ\PoC.RabbitMQ.Sender\obj\Debug\net6.0\PoC.RabbitMQ.Sender.AssemblyInfoInputs.cache
+C:\Users\neand\source\repos\PoC.RabbitMQ\PoC.RabbitMQ.Sender\obj\Debug\net6.0\PoC.RabbitMQ.Sender.AssemblyInfo.cs
+C:\Users\neand\source\repos\PoC.RabbitMQ\PoC.RabbitMQ.Sender\obj\Debug\net6.0\PoC.RabbitMQ.Sender.csproj.CoreCompileInputs.cache
+C:\Users\neand\source\repos\PoC.RabbitMQ\PoC.RabbitMQ.Sender\obj\Debug\net6.0\PoC.RabbitMQ.Sender.csproj.CopyComplete
+C:\Users\neand\source\repos\PoC.RabbitMQ\PoC.RabbitMQ.Sender\obj\Debug\net6.0\PoC.RabbitMQ.Sender.dll
+C:\Users\neand\source\repos\PoC.RabbitMQ\PoC.RabbitMQ.Sender\obj\Debug\net6.0\ref\PoC.RabbitMQ.Sender.dll
+C:\Users\neand\source\repos\PoC.RabbitMQ\PoC.RabbitMQ.Sender\obj\Debug\net6.0\PoC.RabbitMQ.Sender.pdb
+C:\Users\neand\source\repos\PoC.RabbitMQ\PoC.RabbitMQ.Sender\obj\Debug\net6.0\PoC.RabbitMQ.Sender.genruntimeconfig.cache

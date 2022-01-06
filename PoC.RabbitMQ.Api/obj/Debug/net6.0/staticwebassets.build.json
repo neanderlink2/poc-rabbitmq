@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Vkz3imojRQG9MAvKnyQSjPowAIo3TW7vpex9ObqLmRc=",
+  "Source": "PoC.RabbitMQ.Api",
+  "BasePath": "_content/PoC.RabbitMQ.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

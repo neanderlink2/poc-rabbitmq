@@ -1,0 +1,17 @@
+C:\Users\neand\source\repos\PoC.RabbitMQ\PoC.RabbitMQ.Receive\bin\Debug\net6.0\PoC.RabbitMQ.Receive.exe
+C:\Users\neand\source\repos\PoC.RabbitMQ\PoC.RabbitMQ.Receive\bin\Debug\net6.0\PoC.RabbitMQ.Receive.deps.json
+C:\Users\neand\source\repos\PoC.RabbitMQ\PoC.RabbitMQ.Receive\bin\Debug\net6.0\PoC.RabbitMQ.Receive.runtimeconfig.json
+C:\Users\neand\source\repos\PoC.RabbitMQ\PoC.RabbitMQ.Receive\bin\Debug\net6.0\PoC.RabbitMQ.Receive.dll
+C:\Users\neand\source\repos\PoC.RabbitMQ\PoC.RabbitMQ.Receive\bin\Debug\net6.0\ref\PoC.RabbitMQ.Receive.dll
+C:\Users\neand\source\repos\PoC.RabbitMQ\PoC.RabbitMQ.Receive\bin\Debug\net6.0\PoC.RabbitMQ.Receive.pdb
+C:\Users\neand\source\repos\PoC.RabbitMQ\PoC.RabbitMQ.Receive\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\neand\source\repos\PoC.RabbitMQ\PoC.RabbitMQ.Receive\obj\Debug\net6.0\PoC.RabbitMQ.Receive.csproj.AssemblyReference.cache
+C:\Users\neand\source\repos\PoC.RabbitMQ\PoC.RabbitMQ.Receive\obj\Debug\net6.0\PoC.RabbitMQ.Receive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neand\source\repos\PoC.RabbitMQ\PoC.RabbitMQ.Receive\obj\Debug\net6.0\PoC.RabbitMQ.Receive.AssemblyInfoInputs.cache
+C:\Users\neand\source\repos\PoC.RabbitMQ\PoC.RabbitMQ.Receive\obj\Debug\net6.0\PoC.RabbitMQ.Receive.AssemblyInfo.cs
+C:\Users\neand\source\repos\PoC.RabbitMQ\PoC.RabbitMQ.Receive\obj\Debug\net6.0\PoC.RabbitMQ.Receive.csproj.CoreCompileInputs.cache
+C:\Users\neand\source\repos\PoC.RabbitMQ\PoC.RabbitMQ.Receive\obj\Debug\net6.0\PoC.RabbitMQ.Receive.csproj.CopyComplete
+C:\Users\neand\source\repos\PoC.RabbitMQ\PoC.RabbitMQ.Receive\obj\Debug\net6.0\PoC.RabbitMQ.Receive.dll
+C:\Users\neand\source\repos\PoC.RabbitMQ\PoC.RabbitMQ.Receive\obj\Debug\net6.0\ref\PoC.RabbitMQ.Receive.dll
+C:\Users\neand\source\repos\PoC.RabbitMQ\PoC.RabbitMQ.Receive\obj\Debug\net6.0\PoC.RabbitMQ.Receive.pdb
+C:\Users\neand\source\repos\PoC.RabbitMQ\PoC.RabbitMQ.Receive\obj\Debug\net6.0\PoC.RabbitMQ.Receive.genruntimeconfig.cache
